@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+         <title> Bhavans college
+        </title>
+        <meta charset="UTF-8">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/45/Bhavans_Logo.png">
+        <meta name="viewport" content="width=device-width, initial-scale=5.0">
+    </head>
+       
+        <style>
+            body{
+                background: black;
+                font-family: monospace;
+                font-size: larger;
+            }
+            .new{
+                color:red;
+                font-family:monospace;
+                font-size:larger;
+            }
+            .all{
+                color: greenyellow;
+            }
+            #blue{
+                color:greenyellow;
+                font-family: 
+            }
+            #go{
+                color: red ;
+                font-family:monospace;
+                font-size:larger
+            }                
+        </style>
+    
+    <body>
+        <h1 class="new" >Bhavans college</h1>
+        <p id="blue" font-family="monospace">Bhavan's College is a part of the Bharatiya Vidya Bhavan. The college is built<br>
+            upon 45 acres (180,000 m2) of land and has huge volleyball and basketball<br>
+            courts, as well as football pitches,a botanical garden and an adventure park.<br> 
+            The Nature club is very popular. The college festivals are the Ray Film Festival and O2 the Fest.<br>
+           
+            
+            </p>
+            <img src="https://i.ytimg.com/vi/C8vedtFeBA0/maxresdefault.jpg" alt="image of bhavan's college lake">
+        <h2 class="new">Campus of Bhavans college</h2>
+        <p class="all">Bhavans college having campus around 65 acres in the middle of the city which include
+            <br></p>
+        <ul >
+            <li class="all">Botanical garden</li>
+            
+            <li class="all">mandir</li>
+            <li class="all">lake</li>
+            <li class="all">vollyball court</li>
+            <li class="all">cricket and futball ground</li>
+        </ul>
+        <h3 class="new">The streams offered by bhavans college</h3>
+        
+        
+        <ul>
+            <li class="all">Science</li>
+            <li class="all">Commerce</li>
+            <li class="all">Information Technology</li>
+            <li class="all">Computer Science</li>
+            <li class="all">Biotechnology</li>
+            <li class="all">Management Studies and Mass Media</li>
+            <li class="all">Management Studies and Mass Media</li>
+            
+          </ul>
+        <p class="new">somebeutiful pictures of bhavans college </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bhavan's_College.jpg/1920px-Bhavan's_College.jpg" alt=" entry gate">
+
+        
+
+        <p all>for official website of the college please visit<br></p>
+        <a rhef="https://en.wikipedia.org/wiki/Bhavan%27s_College">bhavans college</a>
+            
+       
+        <p id="go">This website is made by Rahul,Suraj and Krishnam</p>
+   
+    
+    </body>
+</html>
